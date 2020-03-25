@@ -1,0 +1,38 @@
+.Nav {
+    background-color: #698474;
+    box-shadow: none;
+    width: 100%;
+    padding-top: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 26px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #7aa18a;
+    color: #ffd3b6;
+  }
+  
+  .active {
+    background-color: #7aa18a;
+    color: #ffd3b6;
+  }

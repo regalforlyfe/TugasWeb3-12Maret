@@ -1,0 +1,26 @@
+.unlike {
+    background-color:#cc3535;
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 4px;
+    margin: 10px;
+    width: 90px;
+}
+.like {
+    background-color: #2d3c8d;
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 4px;
+    margin: 10px;
+    width: 90px;
+}
